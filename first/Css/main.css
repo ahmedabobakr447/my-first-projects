@@ -4,19 +4,11 @@ body{
     direction: rtl;
 }
 .container{
-width: 940px;
-margin: 20px auto;
-background:#FFF;
-
+    width: 940px;
+    margin: 20px auto;
+    background:#FFF;
 }
-
-
-
-
-
 /* End Main Rulez*/
-
-
 /* Start Header*/
 header{
     min-height:100px;
@@ -33,19 +25,13 @@ header .logo{
 header .logo img{
     width: 150px;
     margin: 10px 10px 10px 0;
-
-
-
 }
 /*End  Logo*/
-
 /*Start nav*/
-
 header nav{
     height:100px;
     width:80%;
     float: left;
-    
 }
 
 header nav ul{
@@ -61,23 +47,15 @@ header nav ul li{
     margin: 5px;
 }
 /*End nav*/
-
-
-
-
-
-
 /* End Header*/
 
 
 /* Start content*/
-
 .content{
 
     min-height: 500px;
     background: #BBB;
     overflow: hidden;
-
 }
 .container .sidebar{
     float:right;
@@ -87,64 +65,46 @@ header nav ul li{
 }
 
 /*widged*/
-
 .content .sidebar .widged{
-
     width: 90%;
     background: #fff;
     border: 1px solid black;
     margin: 10px auto;
 }
-
 .content .sidebar .widged .title{
-
     background:#222;
     color:#FFF;
     padding:5px;
     text-align: center;
-    
-    
-    
 }
 
 .content .sidebar .widged .data ul li{
-
     list-style-type: none;
     line-height: 150%;
     font-size: 20px;
-    
     text-align: right;
-
 }
 .content .sidebar .widged .data ul{
-
     padding: 0 15px;
 }
 
 .content .sidebar .widged .data ul img {
-
     max-width: 100%;
-    
 }
 
 .content .sidebar .widged .dataicon {
-
     margin: 5px;
     text-align: center;
 }
 .content .sidebar .widged .dataicon i {
-
     padding: 0 10px;
 }
-
 /*products*/
-
 .content .products{
 
     float: left;
     width: 74%;
     padding-bottom: 20px;
-    
 }
 
 .content .products .product  {
@@ -161,10 +121,6 @@ header nav ul li{
 } 
 
 /* End content*/
-
-
-
-
 
 /* Start footer*/
 footer{
